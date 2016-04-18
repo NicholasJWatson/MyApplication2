@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_term">SelectTerm</string>
+    <string name="title_activity_display_term">DisplayTerm</string>
+    <string name="showTermStr">Show Terms</string>
+    <string name="addTermStr">New Term</string>
+    <string name="editTermStr">Edit Term</string>
+    <string name="editDescStr">Edit Description</string>
+    <string name="updateBtn">Update</string>
+    <string name="myAuthor">Watson</string>
+
+
+
+</resources>
